@@ -4,5 +4,5 @@ This project is an introductions to gRPC using the dart language, on the project
 
 Screenshoot :
 
-![WhatsApp Image 2023-03-11 at 17 26 27](https://user-images.githubusercontent.com/36381584/224479223-94cd8cc8-56fe-4bb1-a234-d44f3108d988.jpeg){width=250}
+![WhatsApp Image 2023-03-11 at 17 26 27](https://user-images.githubusercontent.com/36381584/224479223-94cd8cc8-56fe-4bb1-a234-d44f3108d988.jpeg)
 
